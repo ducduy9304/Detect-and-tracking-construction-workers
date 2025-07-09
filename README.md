@@ -1,6 +1,9 @@
 # Detect-and-tracking-construction-workers
-
 This project aims to detect and track construction workers using deep learning and computer vision techniques. It includes take data, annotate data, a training pipeline, data augmentation, and a user-friendly UI to demonstrate results in real time.
+
+## Features
+- Detect construction workers and check whether they using PPE in construction using YOLO models.
+- Track each worker consistently across video frames.
 
 ## Demo Video
 Watch the demo video here:  
@@ -16,6 +19,3 @@ https://2qqrnm-my.sharepoint.com/:f:/g/personal/ducduy9304_2qqrnm_onmicrosoft_co
 - `data.yaml`              # Dataset configuration file
 - `Final Project MV.docx`  # The report of project
 
-## Features
-- Detect construction workers and check whether they using PPE in construction using YOLO models.
-- Track each worker consistently across video frames.
