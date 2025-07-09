@@ -14,7 +14,7 @@ https://2qqrnm-my.sharepoint.com/:f:/g/personal/ducduy9304_2qqrnm_onmicrosoft_co
 - `UI/`                    # UI interface to display results
 - `NoteBook.ipynb`         # Main notebook for training and data analysis
 - `data.yaml`              # Dataset configuration file
-- `Final Project MV.docx`
+- `Final Project MV.docx`  # The report of project
 
 ## Features
 - Detect construction workers and check whether they using PPE in construction using YOLO models.
